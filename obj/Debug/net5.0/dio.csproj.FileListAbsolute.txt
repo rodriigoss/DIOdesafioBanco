@@ -1,0 +1,16 @@
+C:\Users\rodrigo\Documents\dio\bin\Debug\net5.0\dio.exe
+C:\Users\rodrigo\Documents\dio\bin\Debug\net5.0\dio.deps.json
+C:\Users\rodrigo\Documents\dio\bin\Debug\net5.0\dio.runtimeconfig.json
+C:\Users\rodrigo\Documents\dio\bin\Debug\net5.0\dio.runtimeconfig.dev.json
+C:\Users\rodrigo\Documents\dio\bin\Debug\net5.0\dio.dll
+C:\Users\rodrigo\Documents\dio\bin\Debug\net5.0\ref\dio.dll
+C:\Users\rodrigo\Documents\dio\bin\Debug\net5.0\dio.pdb
+C:\Users\rodrigo\Documents\dio\obj\Debug\net5.0\dio.csprojAssemblyReference.cache
+C:\Users\rodrigo\Documents\dio\obj\Debug\net5.0\dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo\Documents\dio\obj\Debug\net5.0\dio.AssemblyInfoInputs.cache
+C:\Users\rodrigo\Documents\dio\obj\Debug\net5.0\dio.AssemblyInfo.cs
+C:\Users\rodrigo\Documents\dio\obj\Debug\net5.0\dio.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo\Documents\dio\obj\Debug\net5.0\dio.dll
+C:\Users\rodrigo\Documents\dio\obj\Debug\net5.0\ref\dio.dll
+C:\Users\rodrigo\Documents\dio\obj\Debug\net5.0\dio.pdb
+C:\Users\rodrigo\Documents\dio\obj\Debug\net5.0\dio.genruntimeconfig.cache
